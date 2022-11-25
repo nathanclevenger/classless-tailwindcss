@@ -1,0 +1,23 @@
+{
+  "name": "classless-tailwindcss",
+  "version": "1.0.0",
+  "description": "Opinionated Classless CSS Framework with TailwindCSS",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanclevenger/classless-tailwindcss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanclevenger/classless-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/nathanclevenger/classless-tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
